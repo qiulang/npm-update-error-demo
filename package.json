@@ -12,8 +12,7 @@
     "axios"
   ],
   "dependencies": {
-    "axios": "^0.19.2",
-    "pm2": "^5.2.0"
+    "axios": "^0.19.2"
   },
   "author": "qiulang",
   "license": "ISC"
